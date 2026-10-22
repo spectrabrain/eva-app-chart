@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   eva-app:
   - apiVersion: v2
+    appVersion: 3.3.0-beta.7
+    created: "2026-10-22T05:44:47.853533489Z"
+    description: A Helm chart for Kubernetes
+    digest: 81a1c6b8c4985bb2b6006485c401c525f9db5930e08b007017fa23edae0bf570
+    name: eva-app
+    type: application
+    urls:
+    - https://spectrabrain.github.io/eva-app-chart/eva-app-3.3.0-beta.7.tgz
+    version: 3.3.0-beta.7
+  - apiVersion: v2
     appVersion: 3.3.0-beta.6
     created: "2026-10-22T00:10:09.76338519Z"
     description: A Helm chart for Kubernetes
@@ -61,4 +71,4 @@ entries:
     urls:
     - https://spectrabrain.github.io/eva-app-chart/eva-app-3.3.0-beta.1.tgz
     version: 3.3.0-beta.1
-generated: "2026-10-22T00:10:09.762289723Z"
+generated: "2026-10-22T05:44:47.849919662Z"
